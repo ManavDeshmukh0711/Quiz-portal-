@@ -1,0 +1,23 @@
+{
+  "name": "quizportal",
+  "version": "1.0.0",
+  "description": "Smart Online Learning and Quiz Portal",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "quiz",
+    "learning",
+    "nodejs",
+    "express",
+    "mongodb"
+  ],
+  "author": "Manav Deshmukh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.18.0"
+  }
+}
